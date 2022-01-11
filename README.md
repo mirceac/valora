@@ -21,6 +21,7 @@ The file package.json contains all libraries needed and all dependencies, so jus
 ```
 cd valora
 npm install
+npm install --global expo-cli
 ```
 Depending on the operating system where you need to start the application, you may need to run (from valora directory):
 ```
